@@ -34,22 +34,22 @@ Wir haben auch berechnet, in welchen Jahren jede Messstelle ihren Tiefststand er
 
 ## Die Daten
 
-Hier stellen wir die bundesweiten Stammdaten aller Messstellen zur Verfügung. Wir haben insgesamt von 23.805 Messstellen Daten bekommen und konnten davon für unsere weitere Auswertung 6.677 Messstellen nutzen. Das lag teilweise an fehlenden Messungen oder auch daran, dass wir Daten anonymisiert (ohne Koordinaten) erhalten haben. Wenn die Datenlage ausreichend war, haben wir unsere 32-jährige Trendanalyse durchgeführt und stellen diese Ergebnisse zur Verfügung.
+Hier stellen wir die bundesweiten Stammdaten aller Messstellen zur Verfügung. Wir haben insgesamt von 23.834 Messstellen Daten bekommen und konnten davon für unsere weitere Auswertung 6.677 Messstellen nutzen. Das lag teilweise an fehlenden Messungen oder auch daran, dass wir Daten anonymisiert (ohne Koordinaten) erhalten haben. Wenn die Datenlage ausreichend war, haben wir unsere 32-jährige Trendanalyse durchgeführt und stellen diese Ergebnisse zur Verfügung.
 
 Wir veröffentlichen auch die monatlichen Tiefst-, Mittel- und Höchstwerte für jede Messstelle für jeden Monat zwischen 1990 und 2021. Außerdem können Sie auch Daten über die zeitliche Entwicklung der tiefsten Wasserstände nach Kreisen abrufen.
 
 In allen Dateien verwenden wir einen Punkt "." für Dezimalstellen.
 
-### Stammdaten und Trends ([trends.csv](trends.csv))
+### Stammdaten und Trends ([messstellen.csv](messstellen.csv))
 
 Ein Beispiel dafür, wie Sie diese Werte selbst berechnen können, finden Sie in [trendanalyse.ipynb](trendanalyse.ipynb).
 
+- ms_nr
 - bundesland (Bundesland, in dem die Messstelle liegt)
 - behoerde (Behörde, die die Messstelle betreibt)
 - kreis
 - BEZ
 - AGS
-- ms_nr
 - latitude
 - longitude
 - pct_data_1990_2021 (Prozentsatz der verfügbaren Monatsmittelwerte, 1990-2021)

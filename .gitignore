@@ -1,2 +1,3 @@
 .ipynb_checkpoints/*
 cleaning.ipynb
+*.ipynb_checkpoints/*
