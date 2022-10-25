@@ -4,7 +4,9 @@ Das Grundwasser in Deutschland sinkt dramatisch. CORRECTIV hat erstmals für Dat
 
 Die Analyse liefert erschreckende Befunde: An knapp der Hälfte aller ausgewerteten Messstellen ist das Grundwasser in den Dürrejahren zwischen 2018 und 2021 auf den tiefsten Stand seit 1990 gefallen. Insgesamt ist in den vergangenen 32 Jahren der Grundwasserstand mehr gesunken als gestiegen.
 
-Lesen Sie hier unsere Recherche: [Wo in Deutschland das Grundwasser sinkt](tk_link)
+Lesen Sie hier unsere Recherche: [Wo in Deutschland das Grundwasser sinkt](https://correctiv.org/?p=129473)
+
+Die Daten können Sie auch direkt in unserem [Grundwasser-Atlas](https://correctiv.github.io/gw-explorer/) erkunden.
 
 ## Methodik
 
