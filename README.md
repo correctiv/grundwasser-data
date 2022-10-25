@@ -1,3 +1,5 @@
+# Grundwasser Daten
+
 Das Grundwasser in Deutschland sinkt dramatisch. CORRECTIV hat erstmals für Daten von rund 6.700 Grundwassermessstellen einen Überblick erstellt und sie im Vergleich ausgewertet.
 
 Die Analyse liefert erschreckende Befunde: An knapp der Hälfte aller ausgewerteten Messstellen ist das Grundwasser in den Dürrejahren zwischen 2018 und 2021 auf den tiefsten Stand seit 1990 gefallen. Insgesamt ist in den vergangenen 32 Jahren der Grundwasserstand mehr gesunken als gestiegen.
