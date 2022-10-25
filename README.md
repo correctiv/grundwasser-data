@@ -48,8 +48,8 @@ Ein Beispiel dafür, wie Sie diese Werte selbst berechnen können, finden Sie in
 - bundesland (Bundesland, in dem die Messstelle liegt)
 - behoerde (Behörde, die die Messstelle betreibt)
 - kreis
-- BEZ
-- AGS
+- bez
+- ags
 - latitude
 - longitude
 - pct_data_1990_2021 (Prozentsatz der verfügbaren Monatsmittelwerte, 1990-2021)
@@ -76,8 +76,8 @@ Unter jeder Jahresspalte steht die Gesamtzahl der Messstationen in einem bestimm
 
 - bundesland
 - kreis
-- BEZ
-- AGS
+- bez
+- ags
 - jahr (1990-2021)
 - messstellen_insgesamt
 
