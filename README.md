@@ -55,6 +55,7 @@ Ein Beispiel dafür, wie Sie diese Werte selbst berechnen können, finden Sie in
 - latitude
 - longitude
 - pct_data_1990_2021 (Prozentsatz der verfügbaren Monatsmittelwerte, 1990-2021)
+- breakpoint_drop (`True` wenn eine Messstelle nach manueller Untersuchung aus der Analyse ausgeschlossen wurde)
 - trend_normalized (Prozent pro Jahr)
 - trend_bin (Ausprägung, von stark sinkend bis stark steigend)
 - trend_raw (Meter pro Jahr)
