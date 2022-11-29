@@ -69,9 +69,9 @@ Dieser Ordner enthält monatliche Grundwasserdaten nach Bundesländern.
 - ms_nr
 - year
 - month
-- min_gwl (in Metern)
-- mean_gwl (in Metern)
-- max_gwl (in Metern)
+- min_gwl (Niedrigster Monatswert, Metern über Normalnull)
+- mean_gwl (Durchschnittlicher Monatswert, Metern über Normalnull)
+- max_gwl (Höchster Monatswert, Metern über Normalnull)
 
 ### Tiefststände ([tiefststaende_nach_kreis.csv](tiefststaende_nach_kreis.csv))
 
