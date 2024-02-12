@@ -1,4 +1,4 @@
-# Grundwasser Daten
+# Monatliche Grundwasserstände in Deutschland 1990-2021
 
 Das Grundwasser in Deutschland sinkt dramatisch. CORRECTIV hat erstmals für Daten von rund 6.700 Grundwassermessstellen einen Überblick erstellt und sie im Vergleich ausgewertet.
 
