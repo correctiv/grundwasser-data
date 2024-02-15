@@ -52,8 +52,8 @@ Ein Beispiel dafür, wie Sie diese Werte selbst berechnen können, finden Sie in
 - kreis
 - bez
 - ags
-- latitude
-- longitude
+- latitude (EPSG:4326)
+- longitude (EPSG:4326)
 - pct_data_1990_2021 (Prozentsatz der verfügbaren Monatsmittelwerte, 1990-2021)
 - breakpoint_drop (`True` wenn eine Messstelle nach manueller Untersuchung aus der Analyse ausgeschlossen wurde)
 - trend_normalized (Prozent pro Jahr)
